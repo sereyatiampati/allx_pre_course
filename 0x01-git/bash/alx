@@ -2,9 +2,11 @@
 #!/bin/
 =======
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX School is so cool!"
+<<<<<<< HEAD
 =======
 >>>>>>> a79d8bbe9f70bf3c19cc0f36540686caeff4fc60
 echo "ALX School"
 >>>>>>> update_script
+=======
+>>>>>>> parent of a79d8bb... Cool, all my changes will be part of the main branch, ready to be deployed!
